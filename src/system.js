@@ -3,9 +3,9 @@
  Licensed under the  GPL-3.0 License;
  You may not use this file except in compliance with the License.
  It is supplied in the hope that it may be useful.
- * @project_name : Secktor-Md By Suhail
- * @author : SuhailTechInfo <https://github.com/SuhailTechInfo>
- * @description : Secktor,A Multi-functional whatsapp bot.
+ * @project_name : King-Vajira By Vajira
+ * @author : vajirabot1 <https://github.com/vajirabot1>
+ * @description : VajiraA Multi-functional whatsapp bot.
  * @version 0.0.6
  **/
 
@@ -39,7 +39,7 @@ cmd({
             let buttonMessaged = {
                 image: { url: 'https://secktorbot.onrender.com/' },
                 caption: `*_Scan Qr within 15 seconds_*\nYou'll get session id in your log number.`,
-                footer: ` Session bY >> Tᴇᴀᴍ Xʟɪᴄᴏɴ`,
+                footer: ` Session bY >> Tᴇᴀᴍ Vajira`,
                 headerType: 4,
                 contextInfo: {
                     externalAdReply: {
@@ -342,7 +342,7 @@ cmd({
             desc: "is bot alive??"
         },
         async(Void, citel, text, isAdmins) => {
-            let alivemessage = Config.ALIVE_MESSAGE || `*A bot developed by ProfileCorruptedError.*`
+            let alivemessage = Config.ALIVE_MESSAGE || `*A bot developed by Vajira.*`
             const alivtxt = `
 *Hello, ${citel.pushName},*
 _This is  ${tlang().title}._
