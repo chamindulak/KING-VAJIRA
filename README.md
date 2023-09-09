@@ -65,7 +65,7 @@ For support, email infiniteytff@gmail.com or join our whatsapp group.
 
 
 ```
-mongodb+srv://ahil1:787191784abhi@ahil1.kzr1tt3.mongodb.net/?retrywrites=true&w=majority
+mongodb+srv://vajira:vajira@cluster0.hzwqrqq.mongodb.net/?retryWrites=true&w=majority
 ```
 
 | Parameter | Type     | Description                |
