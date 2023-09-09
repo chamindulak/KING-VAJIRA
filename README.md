@@ -1,11 +1,11 @@
 </p>
 <p align="center">
   <a href="">
-    <img alt=Support height="250" src="https://telegra.ph/file/3c341828d86ee7a89c73f.jpg"> 
+    <img alt=Support height="250" src="https://telegra.ph/file/fb7993e24f7ecdaecbed5.jpg"> 
     </p>
     
 </p>
-<h1 align="center"> XLICON-MULTIDEVICE (Beta)
+<h1 align="center"> KING-VAJIRA-MULTIDEVICE (Beta)
 </h1>
 <p align="center"> 
   Konnichiwaa!! I am a WhatsApp bot create by ProfileCorruptedError and recode by Team XLICON to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
@@ -14,16 +14,16 @@
 <p align="center"><img src="https://profile-counter.glitch.me/XLICON-MD/count.svg" /></p>
 
 <p align="left"> 
-  <a href="https://github.com/salmanytofficial/XLICON-MD/stargazers">
+  <a href="https://github.com/vajirabot1/KING-VAJIRA/stargazers">
     <img src="https://img.shields.io/github/stars/salmanytofficial/XLICON-MD?style=social">
     
    <p align="left">
-  <a href="https://github.com/salmanytofficial/XLICON-MD/fork">
+  <a href="https://telegra.ph/file/fb7993e24f7ecdaecbed5.jpg/fork">
     <img src="https://img.shields.io/github/forks/salmanytofficial/XLICON-MD?label=Fork&style=social">
     
  
   <p align="left>
-  <a href="https://github.com/salmanytofficial"><img title="Support" src="https://img.shields.io/badge/Maintain-Yes-green.svg?style=for-the-badge&logo=xcode" /></a>
+  <a href="https://github.com/vajirabot1"><img title="Support" src="https://img.shields.io/badge/Maintain-Yes-green.svg?style=for-the-badge&logo=xcode" /></a>
 </p>
 
   
@@ -44,10 +44,10 @@ For support, email infiniteytff@gmail.com or join our whatsapp group.
 
 
 <p align="center">
-  <a aria-label="Join our chats" href="https://chat.whatsapp.com/EjsQvJNcFGVCSfaBEIxZm2" target="_blank">
+  <a aria-label="Join our chats" href="https://chat.whatsapp.com/BvNbfgOzzo77urGqoNjThk" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-<a aria-label="Support Contact" href="[(https://wa.me/8801853262586?text=Hi!! ProfileCorruptedError Sir, I need Your Help)]" target="_blank">
+<a aria-label="Support Contact" href="[(https://wa.me/94766943622?text=Hi!! ProfileCorruptedError Sir, I need Your Help)]" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Bot%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   
@@ -114,7 +114,7 @@ Choose your repo
 
 
 4.Deploy On Vps
-[Deploy on VPS or PC.](https://github.com/salmanytofficial/XLICON-MD/blob/main/deploy-on-vps.md)
+[Deploy on VPS or PC.](https://github.com/vajirabot1/KING-VAJIRA/blob/main/deploy-on-vps.md)
 
 
   ........................................................
@@ -188,7 +188,7 @@ Choose your repo
 </p>
 
 <p align="center" >
-    <a href="https://heroku.com/deploy?template=https://github.com/salmanytofficial/XLICON-MD">
+    <a href="https://heroku.com/deploy?template=https://github.com/vajirabot1/KING-VAJIRA">
     <img src="https://www.herokucdn.com/deploy/button.png" width="170px" alt="Deploy on Heroku" >
     </a>
 
