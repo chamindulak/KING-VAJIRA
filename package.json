@@ -1,5 +1,5 @@
 {
-               "name": "xlicon-md",
+               "name": "King-Vajira",
                "version": "0.0.8",
                "description": "Multi device whatsapp bot by Samanytofficial.",
                "main": "lib/client.js",
@@ -9,7 +9,7 @@
                   "start": "pm2 start lib/client.js --deep-monitoring --attach --name xlicon",
                   "stop": "pm2 stop xlicon"
                },
-               "author": "salmanytofficial",
+               "author": "vajiraofficial",
                "dependencies": {
                        "@sampandey001/baileys": "latest", 
                        "@adiwajshing/keyed-db": "^0.2.4",
@@ -69,10 +69,10 @@
                     },
                  "repository": {
                  "type": "git",
-                 "url": "git+https://github.com/salmanytofficial/XLICON-MD.git"
+                 "url": "git+https://github.com/vajirabot1/KING-VAJIRA.git"
                   },
                  "bugs": {
-                 "url": "https://github.com/salmanytofficial/XLICON-MD/issues"
+                 "url": "https://github.com/vajirabot1/KING-VAJIRA/issues"
                   },
-                 "homepage": "https://github.com/salmanytofficial/XLICON-MD#readme"
+                 "homepage": "https://github.com/vajirabot1/KING-VAJIRA#readme"
                   }
