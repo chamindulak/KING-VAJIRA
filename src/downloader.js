@@ -3,9 +3,9 @@
  Licensed under the  GPL-3.0 License;
  You may not use this file except in compliance with the License.
  It is supplied in the hope that it may be useful.
- * @project_name : Secktor-Md
- * @author : SamPandey001 <https://github.com/SamPandey001>
- * @description : Secktor,A Multi-functional whatsapp bot.
+ * @project_name : Kong-Vajira
+ * @author : vajirabot1 <https://github.com/vajirabot1>
+ * @description : Vajira,A Multi-functional whatsapp bot.
  * @version 0.0.6
  **/
 
@@ -402,7 +402,7 @@ cmd({
         },
         async(Void, citel, text) => {
             let yts = require("secktor-pack");
-            if (!text) return citel.reply(`Example : ${prefix}yts WhatsApp Bot by •xʟɪᴄᴏɴ271-ᴍᴜʟᴛɪᴅᴇᴠɪᴄᴇ•`);
+            if (!text) return citel.reply(`Example : ${prefix}yts WhatsApp Bot by •Vajira-ᴍᴜʟᴛɪᴅᴇᴠɪᴄᴇ•`);
             let search = await yts(text);
             let textt = "*YouTube Search*\n Result From " + text + "\n   ─────────────────── \n";
             let no = 1;
@@ -639,7 +639,7 @@ async(Void, citel, text) => {
 if (!text) return await citel.reply(`*_Ohh PLease, Give Me Song Name_*`);
 let search = await yts(text)
 let i = search.all[1] ;
-let cap = "\t *---Yt Song Searched Data---*   \n\nTitle : " + i.title + "\nUrl : " + i.url +"\nDescription : " + i.timestamp +"\nViews : "+i.views +"\nUploaded : " +i.ago +"\nAuthor : "+i.author.name+"\n\n\nReply 1 To Video \nReply 2 To Audio \n*•xʟɪᴄᴏɴ271-ᴍᴜʟᴛɪᴅᴇᴠɪᴄᴇ•*" ;
+let cap = "\t *---Yt Song Searched Data---*   \n\nTitle : " + i.title + "\nUrl : " + i.url +"\nDescription : " + i.timestamp +"\nViews : "+i.views +"\nUploaded : " +i.ago +"\nAuthor : "+i.author.name+"\n\n\nReply 1 To Video \nReply 2 To Audio \n*•Vajira-ᴍᴜʟᴛɪᴅᴇᴠɪᴄᴇ•*" ;
 Void.sendMessage(citel.chat,{image :{url : i.thumbnail}, caption :  cap })
 })
 */
