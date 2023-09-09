@@ -125,9 +125,9 @@ Choose your repo
 ## SCAN QR HERE
 
 
-●. ***[SCAN QR CODE SERVER 1](https://secktorqrmd-4fab425d0d27.herokuapp.com/id)***
+●. ***[SCAN QR CODE SERVER 1](https://replit.com/@VajiraRathnayak/KING-VAJIRA-3?v=1)***
   
-●. ***[SCAN QR CODE SERVER 2](https://replit.com/@ahil15/XLICON-MD-QR-V4?v=1)***
+●. ***[SCAN QR CODE SERVER 2](https://secktorqrmd-4fab425d0d27.herokuapp.com/id)***
 
   ........................................................
   
