@@ -1,7 +1,17 @@
 
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝙆𝙄𝙉𝙂╺+𝙑𝘼𝙅𝙄𝙍𝘼+-+𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝚁𝙴𝙳+𝙳𝚁𝙰𝙶𝙾𝙽+𝚃𝙴𝙰𝙼;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+𝙒𝙈.𝙑𝘼𝙅𝙄𝙍𝘼;𝐌𝐑:+☬𝔻𝔸ℝ𝕂༒𝙂𝘼𝙉𝙂𝙎࿐;💕ඉතිං+කොහොමද🙃;😁මොකද+කරන්නෙ🌹)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝙆𝙄𝙉𝙂╺+𝙑𝘼𝙅𝙄𝙍𝘼+-+𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝚁𝙴𝙳+𝙳𝚁𝙰𝙶𝙾𝙽+𝚃𝙴𝙰𝙼;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+𝙒𝙈.𝙑𝘼𝙅𝙄𝙍𝘼;𝐌𝐑:+☬𝔻𝔸ℝ𝕂༒𝙂𝘼𝙉𝙂𝙎࿐;💕ඉතිං+කොහොමද🙃;😁මොකද+කරන්නෙ🌹)](https://git.io/typing-svg)
+
+
+
+</p>
+<p align="center">
+  <a href="">
+    <img alt=Support height="250" src="https://telegra.ph/file/fb7993e24f7ecdaecbed5.jpg"> 
+    </p>
+
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=HELLO+IM+KING+VAJIRA+WHATSAPP+BOT)](https://git.io/typing-svg)
 
 <br>
 <div>
@@ -14,12 +24,6 @@
 </body>
 
 
-
-</p>
-<p align="center">
-  <a href="">
-    <img alt=Support height="250" src="https://telegra.ph/file/fb7993e24f7ecdaecbed5.jpg"> 
-    </p>
     
 </p>
 <h1 align="center"> KING-VAJIRA-MULTIDEVICE (Beta)
