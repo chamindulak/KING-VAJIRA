@@ -40,7 +40,7 @@
 
 ## Support
 
-For support, email infiniteytff@gmail.com or join our whatsapp group.
+For support, email vajirarathnayaka529@gmail.con or join our whatsapp group.
 
 
 <p align="center">
